@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<
+<body>
+<div>
+  <h1>Minnie Makes Money</h>
+  <p>I am growing rich by creating new worlds for myself in code. I am programming a pink world for myself.</p>
+  <br>
+  <h2>What I am Doing</h2>
+    <ul>
+     <li>Taking The Harvard CS50x Certificationn Course</li>
+       <li>Creating Projects via Github and Scratch</li>
+       <li>Studying HTML and CSS using CodeCademy</li>
+       <li>Learning more about the industry through blogs and YouTube videos</li>
+     </ul>
+  <br>
+  <h2>Why I am Doing It</h2>
+    <p>I know that <strong>I create my reality.</strong> It <em>is</em> mine to manifest. I can choose what grows in my garden. So, I will 
+    sow effort and reap bounty. I am learning. This is divine.</p>
+    <img src="https://media.giphy.com/media/3o7aTpwP8y4QHnNuZW/giphy.gif" />
+ </div>
+</body>
